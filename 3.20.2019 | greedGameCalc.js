@@ -1,4 +1,4 @@
-3.19.2019 - shashi<br>
+3.20.2019 - shashi<br>
 Greed is a dice game played with five six-sided dice. Your mission, should you choose to accept it, is to score a throw according to these rules. You will always be given an array with five six-sided dice values.
 <br><br>
  Three 1's => 1000 points<br>
